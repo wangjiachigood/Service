@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Service:jar">
+    <output-path>$PROJECT_DIR$/../Service/out/artifacts/Service_jar</output-path>
+    <root id="archive" name="Service.jar">
+      <element id="module-output" name="Service" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Service/libs/mqtt-client-0.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
